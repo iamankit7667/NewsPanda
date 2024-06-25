@@ -1,0 +1,227 @@
+{
+    "status": "ok",
+    "totalResults": 17,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Netflix inks deal with Reliance's Jio to expand India presence | TechCrunch",
+            "description": "Netflix has inked a \"first-of-its-kind\" deal with Jio Platforms, India's largest telecom operator, to bundle the streaming service with the carrier's two Netflix has partnered with India's leading telecom, Jio Platforms, to bundle its service in two Jio plans…",
+            "url": "https://techcrunch.com/2023/08/18/netflix-inks-deal-with-reliance-jio-to-expand-india-presence/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1247248367.jpg?resize=1200,800",
+            "publishedAt": "2023-08-18T11:34:13Z",
+            "content": "Netflix has inked a “first-of-its-kind” deal with Jio Platforms, India’s largest telecom operator, to bundle the streaming service with the carrier’s two pay-as-you-go plans as the American giant pus… [+2078 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Wired",
+            "title": "Russia and India Are Racing to Put Landers on the Moon",
+            "description": "Robotic spacecraft from both countries are aiming to touch down on the moon’s southern hemisphere, as one’s space program waxes and the other wanes.",
+            "url": "https://www.wired.com/story/russia-and-india-are-racing-to-put-landers-on-the-moon/",
+            "urlToImage": "https://media.wired.com/photos/64de93ae32101aa6f13ca222/191:100/w_1280,c_limit/Russia-India-Space-Race-Science-AP21076406196432.jpg",
+            "publishedAt": "2023-08-18T11:00:00Z",
+            "content": "For its part, India next plans to partner with Japan on the Lunar Polar Exploration rover, or Lupex, which could launch as early as 2026 and will examine water deposits near the south pole.\r\nThe US a… [+2887 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "India Today",
+            "title": "Rahul Gandhi to contest from Amethi in 2024, claims UP Congress chief - India Today",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LmluZGlhdG9kYXkuaW4vaW5kaWEvc3RvcnkvcmFodWwtZ2FuZGhpLXRvLWNvbnRlc3QtZnJvbS1hbWV0aGktaW4tMjAyNC1jbGFpbXMtdXAtY29uZ3Jlc3MtY2hpZWYtMjQyMzE0Ni0yMDIzLTA4LTE40gGBAWh0dHBzOi8vd3d3LmluZGlhdG9kYXkuaW4vYW1wL2luZGlhL3N0b3J5L3JhaHVsLWdhbmRoaS10by1jb250ZXN0LWZyb20tYW1ldGhpLWluLTIwMjQtY2xhaW1zLXVwLWNvbmdyZXNzLWNoaWVmLTI0MjMxNDYtMjAyMy0wOC0xOA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-08-18T10:58:50+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "India Today",
+            "title": "Declare it national calamity, Himachal Chief Minister tells Centre amid rain rampage - India Today",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2luZGlhL3N0b3J5L2hpbWFjaGFsLXByYWRlc2gtZGVjbGFyZXMtZGFtYWdlLWNhdXNlZC1ieS1oZWF2eS1yYWlucy1hcy1zdGF0ZS1jYWxhbWl0eS0yNDIzMDQ2LTIwMjMtMDgtMTjSAYUBaHR0cHM6Ly93d3cuaW5kaWF0b2RheS5pbi9hbXAvaW5kaWEvc3RvcnkvaGltYWNoYWwtcHJhZGVzaC1kZWNsYXJlcy1kYW1hZ2UtY2F1c2VkLWJ5LWhlYXZ5LXJhaW5zLWFzLXN0YXRlLWNhbGFtaXR5LTI0MjMwNDYtMjAyMy0wOC0xOA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-08-18T08:45:42+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "India Today",
+            "title": "Manipur Violence: 3 Killed In Shoot-out With Armed Miscreants In Ukhrul | Manipur Breaking News - India Today",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CCAiC2NJcWZ5eG90emZFmAEB?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-08-18T07:11:13+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Shan Li, Vibhuti Agarwal",
+            "title": "What’s Holding Back India’s Economic Ambitions?",
+            "description": "Just 24% of women in India are working or looking for work",
+            "url": "https://www.wsj.com/world/india/india-economy-women-work-labor-46bfb0f0?mod=hp_lead_pos8",
+            "urlToImage": "https://images.wsj.net/im-836265/social",
+            "publishedAt": "2023-08-18T04:01:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Emma Hinchliffe, Paige McGlauflin",
+            "title": "Why a former SoftBank partner is tackling mid-career drop-off for working mothers",
+            "description": "Former SoftBank partner and Facebook India director Kirthiga Reddy is the cofounder of Laddrr, a resource hub for working mothers aiming to prevent mid-career drop-off.",
+            "url": "https://fortune.com/2022/06/01/former-softbank-partner-tackling-mid-career-drop-off-for-working-mothers/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/Kirthiga1.jpg?resize=1200,600",
+            "publishedAt": "2022-06-01T13:22:34Z",
+            "content": "Skip to Content"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "Ananth Krishnan",
+            "title": "Dalai Lama’s close aides targeted on Pegasus spyware list",
+            "description": "‘Analysis indicates that the Indian govt. was selecting the potential targets’",
+            "url": "https://www.thehindu.com/news/international/dalai-lamas-close-aides-targeted-on-pegasus-spyware-list/article35474285.ece",
+            "urlToImage": "https://www.thehindu.com/news/international/dvshb0/article35474284.ece/ALTERNATES/LANDSCAPE_615/thjc-DalaiLama",
+            "publishedAt": "2021-07-22T15:47:01Z",
+            "content": "Several of the top India-based aides to the Tibetan spiritual leader, the Dalai Lama, figure on the list of potential targets for spying using the Pegasus spyware, according to a report on Thursday. … [+2399 chars]"
+        },
+        {
+            "source": {
+                "id": "rte",
+                "name": "RTE"
+            },
+            "author": "RTÉ News",
+            "title": "UK continues with reopening plan despite concerns",
+            "description": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.",
+            "url": "https://www.rte.ie/news/uk/2021/0515/1221764-uk-indian-variant/",
+            "urlToImage": "https://img.rasset.ie/0016cb40-1600.jpg",
+            "publishedAt": "2021-05-15T09:33:48Z",
+            "content": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.\r\nPrim… [+5066 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Rajat Pandit",
+            "title": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China",
+            "description": "India News:  The Army is now exploring the possibility of procuring 350 light tanks, which can also be transported by air, to augment its firepower in high-altitu",
+            "url": "http://timesofindia.indiatimes.com/india/army-explores-procurement-of-350-light-tanks-for-mountainous-terrain-after-border-standoff-with-china/articleshow/82217825.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82217908,width-1070,height-580,imgsize-264639,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T08:29:00Z",
+            "content": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China\r\n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Army explores procurement of 350 light tanks for mou… [+58 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Times Of India",
+            "title": "PBKS vs MI Live Score, IPL 2021: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways",
+            "description": "IPL Live Score: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways. Stay with TOI to get IPL live score, playing 11, scorecard, highlights and ball by ball score updates of the 17th IPL match between Punjab Kings and Mumbai Indians.",
+            "url": "http://timesofindia.indiatimes.com/sports/cricket/ipl/live-blog/punjab-kings-vs-mumbai-indians-pbks-vs-mi-live-score-ipl-2021-17th-match-chennai/liveblog/82214950.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82214950,width-1070,height-580,imgsize-157009,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T05:44:49Z",
+            "content": "Ravi Bishnoi return on the cards?\r\nDeepak Hooda showed what he is capable of, but greater consistency would be needed from him if the team has to prosper. They bet on Australian pace imports Jhye Ric… [+3131 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Zydus Cadila gets DCGI nod for hepatitis drug for Covid-19 treatment",
+            "description": "India News: Drug firm Zydus Cadila on Friday said it has received restricted emergency use approval from the Indian drug regulator for the use of Pegylated Interf",
+            "url": "http://timesofindia.indiatimes.com/india/zydus-cadila-gets-dcgi-nod-for-hepatitis-drug-for-covid-19-treatment/articleshow/82214909.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82214921,width-1070,height-580,imgsize-98052,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T05:43:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Bloomberg",
+            "title": "Even record death toll may hide extent of India’s Covid crisis",
+            "description": "India News: Bodies piling up at crematoriums and burial grounds across India are sparking concerns that the death toll from a ferocious new Covid-19 wave may be m.",
+            "url": "http://timesofindia.indiatimes.com/india/even-record-death-toll-may-hide-extent-of-indias-covid-crisis/articleshow/82213444.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82213819,width-1070,height-580,imgsize-232887,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T04:41:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Dipak K Dash",
+            "title": "Government to provide 5 kg free food grains to poor for May & June",
+            "description": "India News: The government on Friday announced to provide 5 kg free food grains to the poor for May and June 2021. This will cover nearly 80 crore beneficiaries u",
+            "url": "http://timesofindia.indiatimes.com/india/government-to-provide-5-kg-free-food-grains-to-poor-for-may-june/articleshow/82213582.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82213583,width-1070,height-580,imgsize-1921513,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T04:23:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "'Inappropriate': PM Modi objects to 'protocol break' during meeting; Delhi CM expresses regret",
+            "description": "India News: Delhi chief minister Arvind Kejriwal on Friday faced flak for sharing a live telecast of an \"in-house\" meeting with Prime Minister Narendra Modi where",
+            "url": "http://timesofindia.indiatimes.com/india/delhi-cmo-expresses-regret-over-televised-address-during-meeting-with-pm-modi/articleshow/82213159.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82213159,width-1070,height-580,imgsize-134672,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T03:54:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Times Of India",
+            "title": "Coronavirus in India live updates: Zydus' Virafin gets DCGI nod for Covid treatment",
+            "description": "In yet another grim milestone, India recorded 3.3 lakh new Covid-19 cases, and 2,263 deaths in a day. Meanwhile, active cases crossed the 24-lakh mar",
+            "url": "http://timesofindia.indiatimes.com/india/coronavirus-in-india-covid-19-vaccine-cases-lockdown-live-updates-23-april-2021/liveblog/82205841.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82205841,width-1070,height-580,imgsize-148788,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-22T16:20:06Z",
+            "content": "Zydus Cadila gets DCGI nod for hepatitis drug for Covid-19 treatment\r\nMake Covid-19 vaccination affordable, accessible through Jan Aushadi scheme: IMA\r\nThe IMA has demanded that the Covid-19 vaccine … [+4487 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "I'm fighting my own benchmarks - R Ashwin | ESPNcricinfo.com",
+            "description": "India's No. 1 offspinner talks to Manjrekar on his form abroad, injuries and more | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102228/fighting-my-own-benchmarks-r-ashwin",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219773_1296x729.jpg",
+            "publishedAt": "2020-04-25T03:00:09Z",
+            "content": "R Ashwin has said that he is \"fighting my own benchmarks\" because his Test performances overseas are being measured against his heroics in India. Despite being the country's best long-form spinner in… [+3347 chars]"
+        }
+    ]
+}
